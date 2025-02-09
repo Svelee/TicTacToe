@@ -1,0 +1,20 @@
+Le fichier python du même dossier est un code de morpion
+
+Il est possible de jouer à deux en local, ou de jouer avec des bots, un aléatoire et un autre plus stratégique,
+bien qu'il soit loin d'être imbattable
+
+Informez moi si possible de tout crash ou erreur pour que je puisse la corriger
+Discord : svelee.
+Mail : svelee.chee@gmail.com
+
+=======================================================================================
+
+The python file from the same folder is a TicTacToe code
+
+You may play offline with someone else, or play with bots, there's one that plays random and the other more strategic,
+though it's not impossible to beat
+
+If possible I'd like to be informed of every error or crash so I can fix it
+
+Discord : svelee.
+Mail : svelee.chee@gmail.com
